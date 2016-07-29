@@ -15,3 +15,9 @@ How can you use the staging area to make sure you have one commit per logical ch
 
 Answer:
 The staging area is a great way to isolate specific changes in buckets, and then commit them one at a time.
+
+Question:
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Answer:
+Branches are EXTREMELY helpful when thinking about deviating from the core project in a material way. This could include working on a major (or minor) feature, or when thinking about experiments or other interesting projects. Branches help by making it easy to try new things without risking the core code.
