@@ -1,0 +1,46 @@
+Question:
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+Answer:
+It was helpful to reference both documents to 1) isolate the places where errors could occur, and then 2) be able to infer if any differences resulted in an error. Having the two versions made it very easy to pinpoint the location and avoid extra work.
+
+
+Question:
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+Answer:
+Having the entire history of a file makes it very easy to spot changes over time, and possibly even revert back to old files. Having a history makes it easy to backtrack through changes and identify points of error or other points of interest. And, if a change needs to be revised, having the entire history makes it easy to choose the most optimal place of reversion (perhaps the most recent version of a file lacking errors).
+
+Question:
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+Answer:
+Pros:
+- I'm able to organize thoughts coherently and keep contexts consistent, which is great when reviewing code.
+
+Cons:
+- If I'm getting 'in the flow', I might forget to commit content and end up committing a large chunk of code down the road.
+
+Question:
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+Answer:
+Version control systems like Git are made for multiple files in mind; my hunch is that many (if not most) web development projects involve multiple files. Google Docs and others similar to it likely treat each file separately because those programs are likely designed for single file usage.
+
+Question:
+How can you use the commands git log and git diff to view the history of files?
+
+Answer:
+I can use git log to find all commits made, and git diff to compare two IDs when I'm curious about the differences between the two.
+
+Question:
+How might using version control make you more confident to make changes that could break something?
+
+Answer:
+Version control can take all of the risk out of experimenting with code. If I ever make a mistake, I'm always able to revert back to previous commits!
+
+Question:
+Now that you have your workspace set up, what do you want to try using Git for?
+
+Answer:
+I'm excited to simply be up and running with a version control system! I can't wait to experiment with new coding concepts!
