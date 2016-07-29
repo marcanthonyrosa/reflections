@@ -1,0 +1,11 @@
+Question:
+What happens when you initialize a repository? Why do you need to do it?
+
+Answer:
+Git needs to know where to start saving git commands and where to begin a repository. When you initialize a repository, git creates a file called .git that's hidden.
+
+Question:
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Answer:
+The staging area allows users to collect related changes together in a way that might be different than the rest of the working directory or repository. For example, I may want to log changes of a few files separately from a set of other files. The staging area gives me this control.
