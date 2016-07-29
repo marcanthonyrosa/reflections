@@ -9,3 +9,9 @@ How is the staging area different from the working directory and the repository?
 
 Answer:
 The staging area allows users to collect related changes together in a way that might be different than the rest of the working directory or repository. For example, I may want to log changes of a few files separately from a set of other files. The staging area gives me this control.
+
+Question:
+How can you use the staging area to make sure you have one commit per logical change?
+
+Answer:
+The staging area is a great way to isolate specific changes in buckets, and then commit them one at a time.
