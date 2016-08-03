@@ -21,3 +21,9 @@ What are some situations when branches would be helpful in keeping your history 
 
 Answer:
 Branches are EXTREMELY helpful when thinking about deviating from the core project in a material way. This could include working on a major (or minor) feature, or when thinking about experiments or other interesting projects. Branches help by making it easy to try new things without risking the core code.
+
+Question:
+How do the diagrams help you visualize the branch structure?
+
+Answer:
+Wow, the diagrams are SO helpful! We should have lead with those! The diagrams make it very easy to reference the branches and history of commits in a way that's easier to view than text! The diagrams help illustrate where branches stem and points of origin. 
