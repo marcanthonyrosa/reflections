@@ -17,3 +17,9 @@ Answer:
 Forks - this is a way to clone projects through GitHub and attribute credit and an origin to the original person. I would use this over cloning most likely the majority of the time.
 Clones - this is a way to duplicate a project and its commit history. If I'm interacting with code outside of GitHub, I'd likely simply clone the project.
 Branches - branches are deviations of the code from a master (or another) primary history of code. Branching out allows me to add features and try experimental things without risking the code history. I'd likely branch code all the time!
+
+Question:
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+Answer:
+The benefit is that you have the latest, most up-to-date code available to you while you're working on your code. This allows you to avoid big code reviews in the future where a significant amount of differences exist between your local copy and the master branch. 
