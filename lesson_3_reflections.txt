@@ -22,4 +22,10 @@ Question:
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 Answer:
-The benefit is that you have the latest, most up-to-date code available to you while you're working on your code. This allows you to avoid big code reviews in the future where a significant amount of differences exist between your local copy and the master branch. 
+The benefit is that you have the latest, most up-to-date code available to you while you're working on your code. This allows you to avoid big code reviews in the future where a significant amount of differences exist between your local copy and the master branch.
+
+Question:
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+Answer:
+I would likely lean on email/Slack to send the most recent version of docs when they're ready to other teammates. The entire collaboration process is likely to be much more cumbersome and time-consuming without Git or Github, because of the added layers of saving, packaging files, and sharing them over. I can imagine that the process would be considerably harder, and that there wont' be any sizable improvements to boast about. I can't imagine an experience that would be easier, in this case!
